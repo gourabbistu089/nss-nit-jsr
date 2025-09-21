@@ -409,21 +409,6 @@ export const teamMembers = {
           instagram: '#'
         }
       },
-    
-      {
-        id: 27,
-        name: 'RAVI RANJAN',
-        position: 'Joint Secretary',
-        image: '/core-team/Ravi.webp',
-        department: 'B.Tech,Engineering and Computational mechanics  ',
-        email: 'itsme9508674540@gmail.com',
-        description: 'Ravi leads the Event Management team and ensures smooth execution of NSS initiatives across campus and community.',
-        social: {
-          linkedin: 'https://www.linkedin.com/in/ravi-ranjan-3063862a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
-          twitter: '#',
-          instagram: '#'
-        }
-      },
     ],
     volunteers: [
       {
@@ -606,7 +591,62 @@ export const teamMembers = {
           instagram: '#'
         }
       },
-     
+      {
+        id: 42,
+        name: 'ROSHAN KUMAR',
+        position: 'Volunteer',
+        image: '/core-team/Volunteer/Roshan_Kumar.jpg',
+        department: 'B.Tech, Civil Engineering',
+        email: '',
+        description: 'Roshan is skilled in organizing health camps and awareness programs. He has been instrumental in the success of several health-related initiatives.',
+        social: {
+          linkedin: '#',
+          twitter: '#',
+          instagram: '#'
+        }
+      },
+      {
+        id: 43,
+        name: 'ANKITA MANDAL',
+        position: 'Volunteer',
+        image: '/core-team/Volunteer/Ankita_Mandal.jpg',
+        department: 'M.S.C Chamestry',
+        email: '',
+        description: 'Ankita is skilled in organizing health camps and awareness programs. He has been instrumental in the success of several health-related initiatives.',
+        social: {
+          linkedin: '#',
+          twitter: '#',
+          instagram: '#'
+        }
+      },
+     {
+        id: 44,
+        name: 'Akshit Agarwal',
+        position: 'Volunteer',
+        image: '/core-team/Volunteer/Akshit_Agarwal.jpg',
+        department: 'B.Tech, Metallurgical & Materials Engineering',
+        email: '',
+        description: 'Akshit is skilled in organizing health camps and awareness programs. He has been instrumental in the success of several health-related initiatives.',
+        social: {
+          linkedin: '#',
+          twitter: '#',
+          instagram: '#'
+        }
+      },
+      {
+        id: 45,
+        name: 'Saloni Pandey',
+        position: 'Volunteer',
+        image: '/core-team/Volunteer/Saloni_Pandey.jpg',
+        department: 'B.Tech, Electronics and Communication Engineering',
+        email: '',
+        description: 'Saloni is skilled in organizing health camps and awareness programs. He has been instrumental in the success of several health-related initiatives.',
+        social: {
+          linkedin: '#',
+          twitter: '#',
+          instagram: '#'
+        }
+      },
     ],
   };
   
